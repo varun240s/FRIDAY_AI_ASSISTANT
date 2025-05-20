@@ -1,0 +1,11 @@
+langchain
+langchain-community
+requests
+python-dotenv
+faiss-cpu
+chromadb
+pyttsx3 gTTS TTS
+SpeechRecognition pyaudio
+langchain-groq
+arxiv
+wikipedia
